@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# npm package lock
+package-lock.json
+
+# IDE configurations
+.vscode/
+.idea/
